@@ -26,9 +26,9 @@
 # ScreenShot (Client) :
 1. All posts
 ![1](https://user-images.githubusercontent.com/19781935/50550972-96105000-0c71-11e9-8877-a242067e2f41.PNG)
-2. All users
+2. Post Ny user
 ![2](https://user-images.githubusercontent.com/19781935/50550973-96105000-0c71-11e9-88cd-30fcd62f7156.PNG)
-3. Post detail
+3. All users
 ![3](https://user-images.githubusercontent.com/19781935/50550974-96105000-0c71-11e9-9208-ac8058ec6620.PNG)
 4. User detail
 ![4](https://user-images.githubusercontent.com/19781935/50550975-96a8e680-0c71-11e9-85c1-6e22216be932.PNG)
