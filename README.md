@@ -5,6 +5,15 @@
 1. ClientSide : with Angular and Bulma
 2. ServerSide : with NestJs and Faker.Js
 
+# Features
+- Angular
+- NestJs
+- Routing
+- Bulma framework based on Flexbox
+- RxJS/Observables
+- Angular forms
+- Http
+
 # ScreenShot (Client) :
 1. Home page :
 ![1](https://user-images.githubusercontent.com/19781935/50550915-48471800-0c70-11e9-936d-0de494265c39.png)
