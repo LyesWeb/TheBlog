@@ -14,6 +14,21 @@
 - Angular forms
 - Http
 
+# Get started with the Code
+Either clone this repository or fork it on GitHub and clone your fork:
+
+```
+git clone https://github.com/ilyassking/TheBlog.git
+cd ServerSide
+npm install
+npm run start:dev
+```
+```
+cd ClientSide
+npm install
+ng serve
+```
+
 # ScreenShot (Client) :
 1. Home page :
 ![1](https://user-images.githubusercontent.com/19781935/50550915-48471800-0c70-11e9-936d-0de494265c39.png)
