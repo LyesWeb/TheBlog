@@ -1,0 +1,24 @@
+
+<div class="container">
+  <h1 class="title is-4">Contact form</h1>
+  <form [formGroup]="contactForm" (ngSubmit)="onSubmit()">
+    <div class="field">
+      <label for="name" class="label">Name</label>
+      <div class="control">
+      <input id="name"  type="text" class="input" formControlName="n">
+    </div>
+    </div>
+    <div class="help is-danger"
+    *ngIf="contactForm.controls['n'].touched && contactForm.controls['n'].invalid">
+      <div *ngIf="contactForm.controls['n'].errors.required" >Champs requis</div>
+      <div *ngIf="contactForm.controls['n'].errors.minlength" >Minimum 6 caratères</div>
+    </div>
+    <div class="field">
+      <label for="email" class="label">Name</label>
+      <div class="control">
+      <input id="email" type="text" class="input" formControlName="e">
+    </div>
+    </div>
+    <button class="button is-primary" [disabled]="contactForm.invalid">Ajouter</button>
+  </form>
+</div>

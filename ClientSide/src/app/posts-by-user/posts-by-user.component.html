@@ -1,0 +1,25 @@
+<div class="container">
+    <div class="section">
+        <h2 class="title is-4">Posts :</h2>
+        <table class="table is-striped is-bordered is-hoverable" *ngIf="posts?.length > 0">
+          <tr>
+            <th>#</th>
+            <th>title</th>
+            <th>body</th>
+            <th>postedAt</th>
+            <th>user</th>
+          </tr>
+          <tr *ngFor="let post of posts">
+            <td>{{ post.postId }}</td>
+            <td><a routerLink="/posts/{{ post.postId }}">{{ post.title }}</a></td>
+            <td>{{ post.body | slice:0:100 }} <a routerLink="/posts/{{ post.postId }}">[...]</a></td>
+            <td>{{ post.postedAt | date: 'dd-MM-yyyy HH:mm' }}</td>
+            <td><a routerLink="/users/{{ post.user.id }}">{{ post.user.name }}</a></td>
+          </tr>
+        </table>
+        <div class="notification" *ngIf="posts?.length <= 0">
+            this user has 0 posts 🙁
+        </div>
+    </div>
+  </div>
+  

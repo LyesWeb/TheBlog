@@ -1,0 +1,23 @@
+<div class="container">
+  <div class="section">
+      <h2 class="title is-4">Posts :</h2>
+      <table class="table is-striped is-bordered is-hoverable">
+        <tr>
+          <th>#</th>
+          <th>TITLE</th>
+          <th>BODY</th>
+          <th>POSTED AT</th>
+          <th>AUTHOR</th>
+          <th>ACTIONS</th>
+        </tr>
+        <tr *ngFor="let post of posts">
+          <td>{{ post.postId }}</td>
+          <td><a routerLink="/posts/{{ post.postId }}">{{ post.title }}</a></td>
+          <td>{{ post.body | slice:0:100 }} <a routerLink="/posts/{{ post.postId }}">[...]</a></td>
+          <td>{{ post.postedAt | date: 'dd-MM-yyyy HH:mm'}}</td>
+          <td><a routerLink="/users/{{ post.user.id }}">{{ post.user.name }}</a></td>
+          <td><a class="button is-danger" (click)="removePost(post.postId)">delete</a></td>
+        </tr>
+      </table>
+  </div>
+</div>
