@@ -47,7 +47,7 @@ ng serve
 8. Contact form
 ![8](https://user-images.githubusercontent.com/19781935/50550923-60b73280-0c70-11e9-96af-3ef250c349ad.png)
 
-# ScreenShot (Client) :
+# ScreenShot (Server) :
 1. All posts
 ![1](https://user-images.githubusercontent.com/19781935/50550972-96105000-0c71-11e9-8877-a242067e2f41.PNG)
 2. Post Ny user
