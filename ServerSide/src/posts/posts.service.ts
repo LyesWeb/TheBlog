@@ -49,7 +49,6 @@ getPostsByUserId(userId: number){
   return this.posts.filter( post => post.userId == userId);
 }
 
-    /* Ajouter un post */
     addpost(p: PostsDTO){
 
       let post = {
