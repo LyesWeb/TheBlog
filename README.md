@@ -41,13 +41,8 @@ ng serve
 
 
 # ScreenShot (Server) :
-1. All posts
-![1](https://user-images.githubusercontent.com/19781935/50550972-96105000-0c71-11e9-8877-a242067e2f41.PNG)
-2. Post Ny user
-![2](https://user-images.githubusercontent.com/19781935/50550973-96105000-0c71-11e9-88cd-30fcd62f7156.PNG)
-3. All users
-![3](https://user-images.githubusercontent.com/19781935/50550974-96105000-0c71-11e9-9208-ac8058ec6620.PNG)
-4. User detail
-![4](https://user-images.githubusercontent.com/19781935/50550975-96a8e680-0c71-11e9-85c1-6e22216be932.PNG)
-5. Posts By user
-![5](https://user-images.githubusercontent.com/19781935/50550976-96a8e680-0c71-11e9-8356-9ae9ab5555df.PNG)
+![1](https://user-images.githubusercontent.com/19781935/50553089-a3d8cc00-0c97-11e9-8824-67ddea767940.PNG)
+![2](https://user-images.githubusercontent.com/19781935/50553090-a3d8cc00-0c97-11e9-89c0-2ce5b96e68e4.PNG)
+![3](https://user-images.githubusercontent.com/19781935/50553091-a3d8cc00-0c97-11e9-87ee-048ae36b626e.PNG)
+![4](https://user-images.githubusercontent.com/19781935/50553092-a4716280-0c97-11e9-8bc5-a35c6991dde2.PNG)
+![5](https://user-images.githubusercontent.com/19781935/50553093-a4716280-0c97-11e9-91c1-8e80b3905b22.PNG)
