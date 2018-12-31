@@ -30,22 +30,15 @@ ng serve
 ```
 
 # ScreenShot (Client) :
-1. Home page :
-![1](https://user-images.githubusercontent.com/19781935/50550915-48471800-0c70-11e9-936d-0de494265c39.png)
-2. Posts page
-![2](https://user-images.githubusercontent.com/19781935/50550947-1aae9e80-0c71-11e9-89af-161adec124f7.png)
-3. Users page
-![4](https://user-images.githubusercontent.com/19781935/50550948-1aae9e80-0c71-11e9-9afc-35987bc915d9.png)
-4. Add new Post Page :
-![3](https://user-images.githubusercontent.com/19781935/50550918-4d0bcc00-0c70-11e9-96b5-327ebcbd716f.png)
-5. Posts By User (0 posts) :
-![5](https://user-images.githubusercontent.com/19781935/50550919-5006bc80-0c70-11e9-8a1d-e0c594c4c142.png)
-6. Posts By User :
-![6](https://user-images.githubusercontent.com/19781935/50550920-51d08000-0c70-11e9-84fc-607d5d54c605.png)
-7. Post details
-![7](https://user-images.githubusercontent.com/19781935/50550921-539a4380-0c70-11e9-9e1b-fd92bb8bfdb9.png)
-8. Contact form
-![8](https://user-images.githubusercontent.com/19781935/50550923-60b73280-0c70-11e9-96af-3ef250c349ad.png)
+![1](https://user-images.githubusercontent.com/19781935/50553039-0b424c00-0c97-11e9-87b3-eebbd97511a6.png)
+![2](https://user-images.githubusercontent.com/19781935/50553041-0b424c00-0c97-11e9-8cfc-14362b1e9323.png)
+![3](https://user-images.githubusercontent.com/19781935/50553042-0b424c00-0c97-11e9-8837-9ef4e91d0474.png)
+![4](https://user-images.githubusercontent.com/19781935/50553043-0bdae280-0c97-11e9-99da-6f0c3724beb8.png)
+![5](https://user-images.githubusercontent.com/19781935/50553045-0bdae280-0c97-11e9-9790-ec72432b9986.png)
+![6](https://user-images.githubusercontent.com/19781935/50553046-0c737900-0c97-11e9-9e1e-c39da4a78544.png)
+![7](https://user-images.githubusercontent.com/19781935/50553047-0c737900-0c97-11e9-86b1-698faa19ff5a.png)
+![8](https://user-images.githubusercontent.com/19781935/50553048-0d0c0f80-0c97-11e9-8692-0146f6cdba8b.png)
+
 
 # ScreenShot (Server) :
 1. All posts
