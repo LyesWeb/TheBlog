@@ -41,8 +41,8 @@ ng serve
 
 
 # ScreenShot (Server) :
-![1](https://user-images.githubusercontent.com/19781935/50553089-a3d8cc00-0c97-11e9-8824-67ddea767940.PNG)
-![2](https://user-images.githubusercontent.com/19781935/50553090-a3d8cc00-0c97-11e9-89c0-2ce5b96e68e4.PNG)
-![3](https://user-images.githubusercontent.com/19781935/50553091-a3d8cc00-0c97-11e9-87ee-048ae36b626e.PNG)
-![4](https://user-images.githubusercontent.com/19781935/50553092-a4716280-0c97-11e9-8bc5-a35c6991dde2.PNG)
-![5](https://user-images.githubusercontent.com/19781935/50553093-a4716280-0c97-11e9-91c1-8e80b3905b22.PNG)
+![1](https://user-images.githubusercontent.com/19781935/50553112-f1553900-0c97-11e9-8ba2-45e272fc4fb2.PNG)
+![2](https://user-images.githubusercontent.com/19781935/50553113-f1553900-0c97-11e9-8312-ea8fe86ebb72.PNG)
+![3](https://user-images.githubusercontent.com/19781935/50553114-f1553900-0c97-11e9-95fb-ea1fd4aa2eb7.PNG)
+![4](https://user-images.githubusercontent.com/19781935/50553115-f1553900-0c97-11e9-8b3c-2e46014a2107.PNG)
+![5](https://user-images.githubusercontent.com/19781935/50553117-f1edcf80-0c97-11e9-8112-28fe415d20b5.PNG)
